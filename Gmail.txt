@@ -1,2 +1,5 @@
 1.Create Account
 2.login
+3.home page create
+4.compose mail
+5.inbox folder
