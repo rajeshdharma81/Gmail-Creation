@@ -3,3 +3,5 @@
 3.home page create
 4.compose mail
 5.inbox folder
+send items
+draft box
