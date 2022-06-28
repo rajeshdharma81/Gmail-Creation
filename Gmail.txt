@@ -5,3 +5,7 @@
 5.inbox folder
 send items
 draft box
+All mails
+Personal
+New folder create
+
